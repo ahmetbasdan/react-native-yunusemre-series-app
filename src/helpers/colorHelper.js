@@ -1,0 +1,5 @@
+export const dark="#282828"
+export const medDark="#1f1f1f"
+export const veryDark="#121212"
+export const activeColor="#43a047"
+export const subTextColor="#bdbdbd"
